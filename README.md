@@ -1,4 +1,4 @@
- Chat-On ???? : A Python Based Chat Room
+ Chat-On  : A Python Based Chat Room
 
 This is a basic yet robust **Python-based Chat Room** project. It is implemented through **Socket Programming** in Python. A server is operated on a defined IP Address and Port, and several clients may connect to it. After connecting, each user is prompted to input a nickname, and then all the messages are broadcasted to the group in real time.
 
